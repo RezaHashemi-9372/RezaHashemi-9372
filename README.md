@@ -1,6 +1,8 @@
 ### Hi there 👋<br/>
-My name is Reza. I am developing game with unity and C#. Love to learn new technology and skills to improve myself.<br/>
+My name is Reza. I am developing game with unity and C# since 2019. Love to learn new technology and skills to improve myself.<br/>
+💬 Ask me about Games and process of developing game.
 📫 How to reach me : rizahashimi1993@gmail.com
+
 <!--
 **RezaHashemi-9372/RezaHashemi-9372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
