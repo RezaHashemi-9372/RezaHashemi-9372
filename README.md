@@ -1,5 +1,6 @@
 ### Hi there 👋<br/>
-My name is Reza. I am developing game with unity and C# since 2019. Love to learn new technology and skills to improve myself.<br/>
+My name is Reza. I am developing game with unity and C# since 2019.I have gained experience in developing casual and hyper casual games.<br/>
+Love to learn new technology and skills to improve myself.<br/>
 💬 Ask me about Games and process of developing game.<br/>
 📫 How to reach me : rizahashimi1993@gmail.com
 
